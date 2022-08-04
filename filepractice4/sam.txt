@@ -1,0 +1,10 @@
+﻿hey this is another string we are entering in the file on another day hope this is will work too
+stream readere sample 1
+stream readere sample 2
+stream readere sample 3 
+stream readere sample 4 
+stream readere sample 5
+stream readere sample 6
+stream readere sample 7 
+stream readere sample 8
+
