@@ -1,0 +1,7 @@
+C:\Raviprasad\collections\collections\bin\Debug\collections.exe.config
+C:\Raviprasad\collections\collections\bin\Debug\collections.exe
+C:\Raviprasad\collections\collections\bin\Debug\collections.pdb
+C:\Raviprasad\collections\collections\obj\Debug\collections.csproj.AssemblyReference.cache
+C:\Raviprasad\collections\collections\obj\Debug\collections.csproj.CoreCompileInputs.cache
+C:\Raviprasad\collections\collections\obj\Debug\collections.exe
+C:\Raviprasad\collections\collections\obj\Debug\collections.pdb
