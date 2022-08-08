@@ -1,0 +1,6 @@
+C:\Raviprasad\dictionary\bin\Debug\dictionary.exe.config
+C:\Raviprasad\dictionary\bin\Debug\dictionary.exe
+C:\Raviprasad\dictionary\bin\Debug\dictionary.pdb
+C:\Raviprasad\dictionary\obj\Debug\dictionary.csprojResolveAssemblyReference.cache
+C:\Raviprasad\dictionary\obj\Debug\dictionary.exe
+C:\Raviprasad\dictionary\obj\Debug\dictionary.pdb
