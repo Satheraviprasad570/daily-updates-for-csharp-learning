@@ -1,0 +1,6 @@
+C:\Raviprasad\leftcollections\bin\Debug\leftcollections.exe.config
+C:\Raviprasad\leftcollections\bin\Debug\leftcollections.exe
+C:\Raviprasad\leftcollections\bin\Debug\leftcollections.pdb
+C:\Raviprasad\leftcollections\obj\Debug\leftcollections.csprojResolveAssemblyReference.cache
+C:\Raviprasad\leftcollections\obj\Debug\leftcollections.exe
+C:\Raviprasad\leftcollections\obj\Debug\leftcollections.pdb

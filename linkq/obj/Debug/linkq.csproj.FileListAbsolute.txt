@@ -1,0 +1,6 @@
+C:\Raviprasad\linkq\bin\Debug\linkq.exe.config
+C:\Raviprasad\linkq\bin\Debug\linkq.exe
+C:\Raviprasad\linkq\bin\Debug\linkq.pdb
+C:\Raviprasad\linkq\obj\Debug\linkq.csprojResolveAssemblyReference.cache
+C:\Raviprasad\linkq\obj\Debug\linkq.exe
+C:\Raviprasad\linkq\obj\Debug\linkq.pdb
