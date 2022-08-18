@@ -1,0 +1,6 @@
+C:\Raviprasad\task_2\bin\Debug\task_2.exe.config
+C:\Raviprasad\task_2\bin\Debug\task_2.exe
+C:\Raviprasad\task_2\bin\Debug\task_2.pdb
+C:\Raviprasad\task_2\obj\Debug\task_2.csprojResolveAssemblyReference.cache
+C:\Raviprasad\task_2\obj\Debug\task_2.exe
+C:\Raviprasad\task_2\obj\Debug\task_2.pdb
