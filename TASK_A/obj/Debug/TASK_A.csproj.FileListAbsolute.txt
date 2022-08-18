@@ -1,0 +1,7 @@
+C:\Raviprasad\TASK_A\bin\Debug\TASK_A.exe.config
+C:\Raviprasad\TASK_A\bin\Debug\TASK_A.exe
+C:\Raviprasad\TASK_A\bin\Debug\TASK_A.pdb
+C:\Raviprasad\TASK_A\obj\Debug\TASK_A.csprojResolveAssemblyReference.cache
+C:\Raviprasad\TASK_A\obj\Debug\TASK_A.exe
+C:\Raviprasad\TASK_A\obj\Debug\TASK_A.pdb
+C:\Raviprasad\TASK_A\bin\Debug\Newtonsoft.Json.dll
